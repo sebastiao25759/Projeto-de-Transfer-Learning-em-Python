@@ -37,6 +37,7 @@ predict_image(image_path)
 
 Este projeto é ideal para quem deseja aprender sobre **Transfer Learning** e como implementar modelos de classificação de imagens usando redes neurais profundas.
 
----
-
-Esse texto descreve bem o que o projeto faz, como ele funciona e como usar. Você pode adaptá-lo conforme necessário.
+### Comando para clonar o diretorio
+```
+git clone https://github.com/sebastiao25759/Projeto-de-Transfer-Learning-em-Python.git
+```
